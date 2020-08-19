@@ -11,6 +11,6 @@
 
 <audio
   controls
-  src="/Users/Hillel/Documents/GitHub/youngbudget/Woah.mp3" type="audio/mpeg">
+  source="/Users/Hillel/Documents/GitHub/youngbudget/Woah.mp3" type="audio/mpeg">
   Your browser does not support the <code>audio<code> element.
 </audio>
