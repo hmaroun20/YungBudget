@@ -1,0 +1,20 @@
+git clone https://github.com/hmaroun20/youngbudget.git
+cd username.github.io
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin master
+
+echo "Hello World" > index.html
+
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Young Budget</title>
+    </head>
+    <body>
+      <h1>My First Heading</h1>
+      <p>My first paragraph.</p>
+    </body>
+</html>
