@@ -10,5 +10,5 @@
 </ul>
 
 <audio controls>
-  <source src="/Users/Hillel/Documents/GitHub/youngbudget/Woah.mp3" type="audio/mpeg">
+  <source src="/Users/Hillel/Documents/GitHub/youngbudget/Woah.mp3" type="audio/mp3">
 </audio>
