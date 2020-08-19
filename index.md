@@ -9,7 +9,8 @@
   <li>Money Philosophy</li>
 </ul>
 
-<audio controls>
-  <source src="/Users/Hillel/Downloads/youngbudget-master/Woah.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+<audio
+  controls
+  src="/Users/Hillel/Downloads/youngbudget-master/Woah.mp3" type="audio/mpeg">
+  Your browser does not support the <code>audio<code> element.
 </audio>
